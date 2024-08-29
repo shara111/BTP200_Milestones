@@ -1,0 +1,5 @@
+﻿  LibApp.cpp
+  LibAppMain.cpp
+  Generating Code...
+pubSel_Tester.obj : error LNK2005: main already defined in LibAppMain.obj
+C:\Users\Simranhara13\OneDrive\Desktop\BTP200 Milestones\Milestone5\x64\Debug\Milestone5.exe : fatal error LNK1169: one or more multiply defined symbols found

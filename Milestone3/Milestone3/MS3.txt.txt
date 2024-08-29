@@ -1,0 +1,3 @@
+I had to input the date twice, Which I fixed by changing the Date module code, specially the read function.
+
+I also changed the assignment operator. 
